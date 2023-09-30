@@ -54,6 +54,10 @@
         <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="48" height="48" alt="Tensorflow" />
       <br><b>Tensorflow</br>
     </td>
+    <td align="center" width="96">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="48" height="48" alt="Keras" />
+      <br><b>Keras</br>
+    </td>
   </tr>
   <tr>    
     <td align="center" width="96">
