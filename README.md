@@ -22,7 +22,7 @@
 
 ## TECHNIQUES
 
-<table border = "0">
+<table>
   <tr>
     <td align="center" width="96">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
