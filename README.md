@@ -22,7 +22,7 @@
 
 ## TECHNIQUES
 
-<table>
+<table border = "0">
   <tr>
     <td align="center" width="96">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
@@ -78,30 +78,32 @@
       <br><b>OpenCV</br>
     </td>
     <td align="center" width="96">
-        <img src="yolo.jpg" width="48" height="48" alt="Yolo" />
+        <img src="yolo2.jpg" width="48" height="48" alt="Yolo" />
       <br><b>Yolo</br>
     </td>
   </tr>
-  <tr>    
+  <tr>
     <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qt/qt-original.svg" width="48" height="48" alt="QT" />
-      <br>QT</br>
+        <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="48" height="48" alt="Django" />
+      <br><b>Django</br>
     </td>
     <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node" />
-      <br>NodeJS</br>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="NodeJS" />
+      <br><b>NodeJS</br>
     </td>
     <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" />
-      <br>MySQL</br>
+        <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="48" height="48" alt="Spring" />
+      <br><b>Spring</br>
     </td>
     <td align="center" width="96">
-      <a href="#MongoDB">
+        <img src="oracle.png" width="48" height="48" alt="Oracle" />
+      <br><b>Oracle</br>
+    </td>
+    <td align="center" width="96">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
-      </a>
-      <br>MongoDB</br>
-    </td>
-
+      <br><b></b>MongoDB</br>
+    </td>        
+    
   </tr>
 </table>
 <br>
