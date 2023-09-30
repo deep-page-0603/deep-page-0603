@@ -60,7 +60,11 @@
     </td>
     <td align="center" width="96">
         <img src="mxnet.png" width="48" height="48" alt="Keras" />
-      <br><b>Keras</br>
+      <br><b>MxNet</br>
+    </td>
+    <td align="center" width="96">
+        <img src="darknet.jpg" width="48" height="48" alt="Darknet" />
+      <br><b>Darknet</br>
     </td>
   </tr>
   <tr>    
