@@ -44,10 +44,18 @@
         <img src="icons8-java.svg" width="48" height="48" alt="Java" />
         <br><b>Java</br>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
         <img src="PyTorch-Light.svg" width="48" height="48" alt="PyTorch" />
-      <br>PyTorch</br>
-    </td>    
+      <br><b>PyTorch</br>
+    </td>
+    <td align="center" width="96">
+        <img src="https://www.tensorflow.org/" width="48" height="48" alt="Tensorflow" />
+      <br><b>Tensorflow</br>
+    </td>
+  </tr>
+  <tr>    
     <td align="center" width="96">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qt/qt-original.svg" width="48" height="48" alt="QT" />
       <br>QT</br>
