@@ -45,7 +45,7 @@
         <br><b>Java</br>
     </td>
     <td align="center" width="96">
-        <img src="PyTorch-Light" width="48" height="48" alt="PyTorch" />
+        <img src="PyTorch-Light.svg" width="48" height="48" alt="PyTorch" />
       <br>PyTorch</br>
     </td>    
     <td align="center" width="96">
