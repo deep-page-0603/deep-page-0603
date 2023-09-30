@@ -1,7 +1,7 @@
 <!-- Header -->
 # 🏆 Machine Learning | Data Science | Back-End Warlock
 
-## BACKGROUND
+## Solid Background In
 <table>
   <tr>
     <td>Mathematics</td>
@@ -19,7 +19,7 @@
   </tr>
 </table>
 
-## TECHNIQUES
+## Extensive Experience In
 
 <table>
   <tr>
