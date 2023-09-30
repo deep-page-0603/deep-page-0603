@@ -29,7 +29,7 @@
         <br><b>Python</br>
     </td>
     <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="CPP" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="Cpp" />
         <br><b>C++</br>
     </td>
     <td align="center" width="96">
@@ -37,16 +37,16 @@
       <br><b>C#</br>
     </td>
     <td align="center" width="96">
-        <img src="R-Dark.svg" width="48" height="48" alt="Python" />
+        <img src="R-Dark.svg" width="48" height="48" alt="R" />
         <br><b>R</br>
     </td>
     <td align="center" width="96">
-        <img src="icons8-java.svg" width="48" height="48" alt="javascript" />
+        <img src="icons8-java.svg" width="48" height="48" alt="Java" />
         <br><b>Java</br>
     </td>
     <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opengl/opengl-original.svg" width="48" height="48" alt="OpenGL" />
-      <br>OpenGL</br>
+        <img src="PyTorch-Light" width="48" height="48" alt="PyTorch" />
+      <br>PyTorch</br>
     </td>    
     <td align="center" width="96">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qt/qt-original.svg" width="48" height="48" alt="QT" />
