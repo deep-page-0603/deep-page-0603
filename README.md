@@ -51,7 +51,7 @@
       <br><b>PyTorch</br>
     </td>
     <td align="center" width="96">
-        <img src="https://www.tensorflow.org/" width="48" height="48" alt="Tensorflow" />
+        <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="48" height="48" alt="Tensorflow" />
       <br><b>Tensorflow</br>
     </td>
   </tr>
