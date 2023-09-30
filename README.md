@@ -44,6 +44,7 @@
         <img src="icons8-java.svg" width="48" height="48" alt="Java" />
         <br><b>Java</br>
     </td>
+    <td></td>
   </tr>
   <tr>
     <td align="center" width="96">
@@ -65,6 +66,20 @@
     <td align="center" width="96">
         <img src="darknet.jpg" width="48" height="48" alt="Darknet" />
       <br><b>Darknet</br>
+    </td>
+    <td align="center" width="96">
+        <img src="paddle.png" width="48" height="48" alt="Paddle" />
+      <br><b>Paddle</br>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+        <img src="opencv.png" width="48" height="48" alt="OpenCV" />
+      <br><b>OpenCV</br>
+    </td>
+    <td align="center" width="96">
+        <img src="yolo.jpg" width="48" height="48" alt="Yolo" />
+      <br><b>Yolo</br>
     </td>
   </tr>
   <tr>    
