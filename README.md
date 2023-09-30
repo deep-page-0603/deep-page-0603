@@ -5,18 +5,18 @@
 ## BACKGROUND
 <table>
   <tr>
-    <td width="110">Mathematics</td>
-    <td width="110">Statistics</td>
-    <td width="110">Optimization</td>
-    <td width="110">Deep Learning</td>
-    <td width="110">Algorithm</td>
+    <td>Mathematics</td>
+    <td>Statistics</td>
+    <td>Optimization</td>
+    <td>Deep Learning</td>
+    <td>Algorithm</td>
   </tr>
   <tr>    
-    <td width="110">Data Structure</td>
-    <td width="110">Linguistics</td>
-    <td width="110">Regression</td>
-    <td width="110"></td>
-    <td width="110"></td>
+    <td>Data Structure</td>
+    <td>Linguistics</td>
+    <td>Regression</td>
+    <td></td>
+    <td></td>
   </tr>
 </table>
 
