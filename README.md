@@ -81,8 +81,47 @@
         <img src="yolo2.jpg" width="48" height="48" alt="Yolo" />
       <br><b>Yolo</br>
     </td>
+    <td align="center" width="96">
+        <img src="vision.png" width="48" height="48" alt="Vision" />
+      <br><b>Vision</br>
+    </td>
+    <td></td>
+    <td align="center" width="96">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="48" height="48" alt="Jupyter" />
+      <br><b>Jupyter</br>
+    </td>
+    <td align="center" width="96">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" width="48" height="48" alt="Colab" />
+      <br><b>Colab</br>
+    </td>
+  </tr>        
+  <tr>
+    <td align="center" width="96">
+        <img src="kaggle.png" width="48" height="48" alt="Kaggle" />
+      <br><b>Kaggle</br>
+    </td>
+    <td align="center" width="96">
+        <img src="amazon.png" width="48" height="48" alt="AWS" />
+      <br><b>AWS</br>
+    </td>
+    <td align="center" width="96">
+        <img src="gcp.png" width="48" height="48" alt="GCP" />
+      <br><b>GCP</br>
+    </td>
+    <td align="center" width="96">
+        <img src="azure.jpg" width="48" height="48" alt="Azure" />
+      <br><b>Azure</br>
+    </td>
+    <td align="center" width="96">
+        <img src="lambda.png" width="48" height="48" alt="Lambda" />
+      <br><b>Lambda</br>
+    </td>    
   </tr>
   <tr>
+    <td align="center" width="96">
+        <img src="devops.png" width="48" height="48" alt="DevOps" />
+      <br><b>DevOps</br>
+    </td>
     <td align="center" width="96">
         <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="48" height="48" alt="Django" />
       <br><b>Django</br>
@@ -101,9 +140,8 @@
     </td>
     <td align="center" width="96">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
-      <br><b></b>MongoDB</br>
-    </td>        
-    
+      <br><b>MongoDB</br>
+    </td>    
   </tr>
 </table>
 <br>
