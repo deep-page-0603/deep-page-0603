@@ -18,7 +18,6 @@
     <td></td>
   </tr>
 </table>
-<br>
 
 ## TECHNIQUES
 
