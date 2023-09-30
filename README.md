@@ -1,7 +1,6 @@
 <!-- Header -->
 # 🏆 Machine Learning | Data Science | Back-End Warlock
 
-
 ## BACKGROUND
 <table>
   <tr>
@@ -19,6 +18,7 @@
     <td></td>
   </tr>
 </table>
+<br>
 
 ## TECHNIQUES
 
@@ -44,7 +44,10 @@
         <img src="icons8-java.svg" width="48" height="48" alt="Java" />
         <br><b>Java</br>
     </td>
-    <td></td>
+    <td align="center" width="96">
+        <img src="php.jpg" width="48" height="48" alt="PHP" />
+        <br><b>PHP</br>
+    </td>
   </tr>
   <tr>
     <td align="center" width="96">
@@ -85,7 +88,10 @@
         <img src="vision.png" width="48" height="48" alt="Vision" />
       <br><b>Vision</br>
     </td>
-    <td></td>
+    <td align="center" width="96">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="48" height="48" alt="Matlab" />
+      <br><b>Matlab</br>
+    </td>
     <td align="center" width="96">
         <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="48" height="48" alt="Jupyter" />
       <br><b>Jupyter</br>
@@ -115,7 +121,11 @@
     <td align="center" width="96">
         <img src="lambda.png" width="48" height="48" alt="Lambda" />
       <br><b>Lambda</br>
-    </td>    
+    </td>
+    <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="48" height="48" alt="Docker" />
+      <br><b>Docker</br>
+    </td>
   </tr>
   <tr>
     <td align="center" width="96">
@@ -144,14 +154,3 @@
     </td>    
   </tr>
 </table>
-<br>
-
-
-
-## Core skills!
-
-✔ <b>3D Rendering</b> : OpenGL / Open3D / OpenSceneGraph / OGRE3D <br>
-✔ <b>Video/Audio Processing</b> : FFmpeg / GStreamer <br>
-✔ <b>Object Detecting</b> : OpenCV / TensorFlow / PyTorch <br>
-✔ <b>Programming-languages</b> : C++ / C# / VB / Python <br>
-<br>
