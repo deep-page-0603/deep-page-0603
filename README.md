@@ -1,5 +1,5 @@
 <!-- Header -->
-# 🏆 Machine Learning | Data Science | Back-End Warlock
+# 🏆 Machine Learning | Data Science | Back-End Whiz
 
 ## Solid Background In
 <table>
@@ -14,7 +14,7 @@
     <td>Data Structure</td>
     <td>Linguistics</td>
     <td>Regression</td>
-    <td></td>
+    <td>Reinforcement Learning</td>
     <td></td>
   </tr>
 </table>
