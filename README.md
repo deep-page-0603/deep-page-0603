@@ -1,5 +1,5 @@
 <!-- Header -->
-# 🏆 Machine Learning | Data Science | Back-End Whiz
+# 🏆 Machine Learning | Data Science | Back-End
 
 ## Solid Background In
 <table>
